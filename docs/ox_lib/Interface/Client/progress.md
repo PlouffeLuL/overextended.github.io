@@ -17,7 +17,6 @@ Displays a running progress bar.
     -- blendIn: float (optional - default is 3.0)
     -- blendOut: float (optional - default is 1.0)
     -- duration: number (optional - default is -1)
-    -- flag: number (optional - default is 49)
     -- playbackRate: number (optional - default is 0)
     -- lockX: boolean (optional)
     -- lockY: boolean (optional)
